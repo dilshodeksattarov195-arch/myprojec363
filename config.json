@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesalculate",
+        "uuid": 3592248,
+        "checksum": "lv4m48"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
